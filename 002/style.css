@@ -1,0 +1,16 @@
+h4{
+    font-size: xx-large;
+   
+}
+
+.centro{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body, html{
+    margin: 0;
+    height: 100%;
+}
